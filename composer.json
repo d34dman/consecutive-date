@@ -1,0 +1,18 @@
+{
+    "name": "d34dman/consecutive-date",
+    "description": "A utility to find consecutive dates",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "D34dman\\ConsecutiveDate\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Shibin Das",
+            "email": "shibinkidd@gmail.com"
+        }
+    ],
+    "require": {}
+}
